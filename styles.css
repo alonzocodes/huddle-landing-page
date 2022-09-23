@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-one {
+    width: 20%;
+    height: 5%;
+}
+
+.nav-button {
+    color: hsl(322, 100%, 66%);
+    border-radius: 20px;
+    border-style: solid;
+    border-color: hsl(322, 100%, 66%);
+    font-family: Roboto;
+    background-color: #ffffff;
+    margin-left: 15%;
+    
+}
